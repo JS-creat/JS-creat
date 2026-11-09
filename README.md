@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hey, I'm a Software Developer 👋
+# Hey, I'm Abraham Josue 👋
 
 ### Freelance Developer · Software Engineering
 
