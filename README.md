@@ -20,10 +20,10 @@ I'm a **Freelance Software Developer** passionate about building modern applicat
 
 I enjoy turning ideas into functional products, solving technical challenges and continuously exploring new technologies.
 
-- 💻 Focused on software development and problem-solving.
-- 🚀 Building web, desktop and mobile applications.
-- 🌱 Always learning and improving my skills.
-- 🤝 Open to freelance projects and collaborations.
+- Focused on software development and problem-solving.
+- Building web, desktop and mobile applications.
+- Always learning and improving my skills.
+- Open to freelance projects and collaborations.
 
 ## Tech Stack
 
